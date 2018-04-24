@@ -1,0 +1,36 @@
+# quais seus obejtivos? = q1
+#   > 1 = General savings
+#   > 2 = Retirement
+#   > 3 = College Savings
+#   > 4 = Other
+#
+# What are you looking for in a financial advisor? = q2
+#   > 1 = I'd like to create a diversified investment portfolio
+#   > 2 = I'd like to save money on my taxes
+#   > 3 = I'd like someone to completely manage my investments, so that I don't have to
+#   > 4 = I'd like to match or beat the performance of the markets
+#
+# idade = q3
+#
+# renda = q4
+#
+# quantos dependentes = q5
+#   > 1 = Single income, no dependents
+#   > 2 = Single income, at least one dependent
+#   > 3 = Dual income, no dependents
+#   > 4 = Dual income, at least one dependent
+#   > 5 = Retired or financially independent
+#
+# What is the total value of your cash and liquid investments? = q6
+#
+# quais suas prioridades? = q7
+#   > 1 = Maximizing gains
+#   > 2 = Minimizing losses
+#   > 3 = Both equally
+#
+# o que fazer caso o portfolio desvalorize 10% = q8
+#   > 1 = Sell all of your investments
+#   > 2 = Sell some
+#   > 3 = Keep all
+#   > 4 = Buy more
+#
